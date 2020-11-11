@@ -1,0 +1,6 @@
+module Pods_MyTableViewController {
+  umbrella header "Pods-MyTableViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
